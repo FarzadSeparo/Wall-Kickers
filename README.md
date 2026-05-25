@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="128" src="logo.webp" alt="Wall Kickers Logo">
+  <img width="128" src="img/logo.webp" alt="Wall Kickers Logo">
 </p>
 
 <h1 align="center">Wall Kickers Clone 🐵🚀</h1>
@@ -84,7 +84,7 @@ bash
 
 ### 🎨 Screenshots (تصاویر بازی / Скриншоты)
 <p align="center">
-<img src="Screenshot.png" width="400" alt="Wall Kickers Gameplay">
+<img src="img/Screenshot.png" width="400" alt="Wall Kickers Gameplay">
 </p>
 
 ### 📄 License
